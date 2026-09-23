@@ -1,8 +1,14 @@
+<div align="center">
+
 # Horror: The Voice
 
-> A horror add-on: a Voice in your head starts as your friend and turns evil over the in-game days.
+**A horror add-on: a Voice in your head starts as your friend and turns evil over the in-game days.**
 
 [![Download](https://img.shields.io/badge/Download-latest%20build-e94560?style=for-the-badge&logo=github&logoColor=white)](../../releases/latest)
+
+</div>
+
+---
 
 An unseen narrator whispers in the chat at night. What he says depends on the chapter of the story, which unfolds over in-game **days**, not minutes. Water is completely safe; spectators are ignored.
 
@@ -39,8 +45,11 @@ Every pack of mine carries a small easter egg: craft the **Dev Book** with **9 l
 - All in-game text is English.
 - Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
 
-![preview](horror-addon.png)
+<div align="center">
 
+<img src="horror-addon.png" alt="Horror: The Voice" width="760">
+
+</div>
 ---
 
 Made by **dev:#2444** - [github.com/hash2444](https://github.com/hash2444) - [horror-addon](https://github.com/hash2444/horror-addon)
