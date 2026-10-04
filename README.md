@@ -22,7 +22,7 @@ An unseen narrator whispers in the chat at night. What he says depends on the ch
 
 ## Download
 
-Download **`Horror-The-Voice-v0.4.1.mcaddon`** from the [releases page](../../releases) (or straight from this repository) and open it - Minecraft imports the packs.
+Download **`Horror-The-Voice-v0.4.2.mcaddon`** from the [releases page](../../releases) (or straight from this repository) and open it - Minecraft imports the packs.
 
 1. Create or edit a world and open **Add-Ons**.
 2. Activate the **Behavior Pack** and the **Resource Pack** of this add-on.
@@ -50,6 +50,9 @@ Every pack of mine carries a small easter egg: craft the **Dev Book** with **9 l
 <img src="horror-addon.png" alt="Horror: The Voice" width="760">
 
 </div>
+
+![preview](horror-addon.png)
+
 ---
 
 Made by **dev:#2444** - [github.com/hash2444](https://github.com/hash2444) - [horror-addon](https://github.com/hash2444/horror-addon)
